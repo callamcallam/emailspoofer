@@ -32,6 +32,6 @@ Before running the script, ensure you have the following installed:
 Install `sendemail` on Linux using the following command:
 ```bash
 sudo apt-get install sendemail
-```bash
+
 python main.py python main.py spoofed_email@example.com target_email@example.com "Subject of the Email" "Body of the email message"
 
